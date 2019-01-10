@@ -1,7 +1,6 @@
 
 .jumbotron{
-background: url("/pro-portfolio/images/IMG_1321.jpg"),
-}
+background-image: url(pro-portfolio/images/)
 
 nav{
   /* sposition: fixed; */
